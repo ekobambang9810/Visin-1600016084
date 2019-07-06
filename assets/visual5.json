@@ -1,0 +1,65 @@
+[
+ {
+   "KECAMATAN": "Andir",
+   "SD": 35,
+   "SLTP": 18,
+   "SMK": 4,
+   "SMU": 15
+ },
+ {
+   "KECAMATAN": "Astanaanyar",
+   "SD": 31,
+   "SLTP": 5,
+   "SMK": 7,
+   "SMU": 2
+ },
+ {
+   "KECAMATAN": "Cibiru",
+   "SD": 25,
+   "SLTP": 5,
+   "SMK": 5,
+   "SMU": 6
+ },
+ {
+   "KECAMATAN": "Cidadap",
+   "SD": 15,
+   "SLTP": 7,
+   "SMK": 2,
+   "SMU": 3
+ },
+ {
+   "KECAMATAN": "Kiaracondong",
+   "SD": 38,
+   "SLTP": 8,
+   "SMK": 2,
+   "SMU": 1
+ },
+ {
+   "KECAMATAN": "Mandalajati",
+   "SD": 21,
+   "SLTP": 4,
+   "SMK": 1,
+   "SMU": 2
+ },
+ {
+   "KECAMATAN": "Panyileukan",
+   "SD": 10,
+   "SLTP": 3,
+   "SMK": 2,
+   "SMU": 2
+ },
+ {
+   "KECAMATAN": "Sumur Bandung",
+   "SD": 23,
+   "SLTP": 8,
+   "SMK": 6,
+   "SMU": 7
+ },
+ {
+   "KECAMATAN": "Ujungberung",
+   "SD": 20,
+   "SLTP": 9,
+   "SMK": 5,
+   "SMU": 4
+ }
+]

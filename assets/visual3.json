@@ -1,0 +1,30 @@
+[
+ {
+   "TINGKATAN": "2015",
+   "SD": 30,
+   "SLTP": 15,
+   "SMK": 7,
+   "SMU": 149
+ },
+ {
+   "TINGKATAN": "2016",
+   "SD": 257,
+   "SLTP": 67,
+   "SMK": 35,
+   "SMU": 7
+ },
+ {
+   "TINGKATAN": "2017",
+   "SD": 340,
+   "SLTP": 125,
+   "SMK": 73,
+   "SMU": 20
+ },
+ {
+   "TINGKATAN": "2018",
+   "SD": 149,
+   "SLTP": 7,
+   "SMK": 20,
+   "SMU": 15
+ }
+]

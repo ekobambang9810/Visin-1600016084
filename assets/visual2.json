@@ -1,0 +1,22 @@
+[
+ {
+   "TINGKATAN": "SD",
+   "Negeri": 610,
+   "Swasta": 166
+ },
+ {
+   "TINGKATAN": "SLTP",
+   "Negeri": 54,
+   "Swasta": 160
+ },
+ {
+   "TINGKATAN": "SMU",
+   "Negeri": 27,
+   "Swasta": 108
+ },
+ {
+   "TINGKATAN": "SMK",
+   "Negeri": 17,
+   "Swasta": 115
+ }
+]
